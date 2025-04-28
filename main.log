@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.17)  27 APR 2025 21:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.17)  28 APR 2025 12:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,7 +244,11 @@ Package pdftex.def Info: img/capa.png  used on input line 20.
 
 [3]
 
-[4]
+[4] (main.toc)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
 
 [5
 
@@ -253,143 +257,162 @@ Package pdftex.def Info: img/capa.png  used on input line 20.
 [6
 
 ]
+
+[7]
+
+[8
+
+]
 Capítulo 1.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 53.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 56.
 (C:\Users\gisel\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 53.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 56.
  (C:\Users\gisel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 53.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 56.
  (C:\Users\gisel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 53.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 56.
  (C:\Users\gisel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 53.
+(Font)              <9> on input line 56.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 53.
+(Font)              <6> on input line 56.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 53.
-<img/a_escurida_de_nova_europa.jpg, id=24, 722.7pt x 412.54124pt>
+(Font)              <5> on input line 56.
+<img/a_escurida_de_nova_europa.jpg, id=32, 722.7pt x 412.54124pt>
 File: img/a_escurida_de_nova_europa.jpg Graphic file (type jpg)
 <use img/a_escurida_de_nova_europa.jpg>
-Package pdftex.def Info: img/a_escurida_de_nova_europa.jpg  used on input line 56.
+Package pdftex.def Info: img/a_escurida_de_nova_europa.jpg  used on input line 59.
 (pdftex.def)             Requested size: 483.69687pt x 276.11163pt.
 
 
-[7 <./img/a_escurida_de_nova_europa.jpg>]
+[9 <./img/a_escurida_de_nova_europa.jpg>]
 
-[8]
-Overfull \hbox (3.28017pt too wide) in paragraph at lines 99--100
+[10]
+Overfull \hbox (3.28017pt too wide) in paragraph at lines 102--103
 []\T1/lmr/m/n/17.28 N�o teve jeito, os qua-tro come�aram a en-trar na rua es-cura e deixaram
  []
 
 
 
-[9]
-
-[10]
-
 [11]
 
-[12
+[12]
+
+[13]
+
+[14
 
 ]
 Capítulo 2.
-<img/filho_de_luna.jpg, id=46, 722.7pt x 412.54124pt>
+<img/filho_de_luna.jpg, id=53, 722.7pt x 412.54124pt>
 File: img/filho_de_luna.jpg Graphic file (type jpg)
 <use img/filho_de_luna.jpg>
-Package pdftex.def Info: img/filho_de_luna.jpg  used on input line 164.
+Package pdftex.def Info: img/filho_de_luna.jpg  used on input line 167.
 (pdftex.def)             Requested size: 483.69687pt x 276.11163pt.
 
 
-[13 <./img/filho_de_luna.jpg>]
+[15 <./img/filho_de_luna.jpg>]
 
-[14]
-Overfull \hbox (15.99779pt too wide) in paragraph at lines 203--204
+[16]
+Overfull \hbox (15.99779pt too wide) in paragraph at lines 206--207
 []\T1/lmr/m/n/17.28 ^^V O c�re-bro con-tinua rel-a-ti-va-mente preser-vado, retirem-no. Descartem
  []
 
 
 
-[15]
+[17]
 
-[16
+[18
 
 ]
 Capítulo 3.
-<img/o_sacrificio.jpg, id=60, 722.7pt x 481.8pt>
+<img/o_sacrificio.jpg, id=66, 722.7pt x 481.8pt>
 File: img/o_sacrificio.jpg Graphic file (type jpg)
 <use img/o_sacrificio.jpg>
-Package pdftex.def Info: img/o_sacrificio.jpg  used on input line 214.
+Package pdftex.def Info: img/o_sacrificio.jpg  used on input line 217.
 (pdftex.def)             Requested size: 483.69687pt x 322.46614pt.
 
 
-[17 <./img/o_sacrificio.jpg>]
+[19 <./img/o_sacrificio.jpg>]
 Underfull \vbox (badness 1694) has occurred while \output is active []
 
 
 
-[18]
+[20]
 
-[19]
+[21]
 
-[20
+[22
 
 ]
 Capítulo 4.
-<img/galera_do_virote.jpg, id=74, 722.7pt x 388.45125pt>
+<img/galera_do_virote.jpg, id=80, 722.7pt x 388.45125pt>
 File: img/galera_do_virote.jpg Graphic file (type jpg)
 <use img/galera_do_virote.jpg>
-Package pdftex.def Info: img/galera_do_virote.jpg  used on input line 254.
+Package pdftex.def Info: img/galera_do_virote.jpg  used on input line 257.
 (pdftex.def)             Requested size: 483.69687pt x 259.98831pt.
 
 
-[21 <./img/galera_do_virote.jpg>]
+[23 <./img/galera_do_virote.jpg>]
 
-[22]
+[24]
 
-[23]
+[25]
 
-[24
+[26
 
 ]
 Capítulo 5.
-<img/esqueci_meu_carro.jpg, id=87, 722.7pt x 492.84125pt>
+<img/esqueci_meu_carro.jpg, id=94, 722.7pt x 492.84125pt>
 File: img/esqueci_meu_carro.jpg Graphic file (type jpg)
 <use img/esqueci_meu_carro.jpg>
-Package pdftex.def Info: img/esqueci_meu_carro.jpg  used on input line 308.
+Package pdftex.def Info: img/esqueci_meu_carro.jpg  used on input line 311.
 (pdftex.def)             Requested size: 483.69687pt x 329.85599pt.
 
 
-[25 <./img/esqueci_meu_carro.jpg>]
+[27 <./img/esqueci_meu_carro.jpg>]
 
-[26]
+[28]
 
-[27] (main.aux)
+[29]
+
+[30
+
+]
+Capítulo 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[31]
+
+[32] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2397 strings out of 473898
- 39894 string characters out of 5726479
+ 2408 strings out of 473898
+ 40074 string characters out of 5726479
  1932960 words of memory out of 5000000
- 25254 multiletter control sequences out of 15000+600000
- 593887 words of font info for 55 fonts, out of 8000000 for 9000
+ 25261 multiletter control sequences out of 15000+600000
+ 602882 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,670b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/gisel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/gisel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/gisel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/gisel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/gisel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb>
-Output written on main.pdf (27 pages, 3416322 bytes).
+Output written on main.pdf (32 pages, 3423378 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 137 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -73,6 +73,11 @@ INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+OUTPUT main.toc
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr9.tfm
@@ -133,6 +138,8 @@ INPUT .\img\esqueci_meu_carro.jpg
 INPUT .\img\esqueci_meu_carro.jpg
 INPUT .\img\esqueci_meu_carro.jpg
 INPUT .\img\esqueci_meu_carro.jpg
+INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT main.aux
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\gisel\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
